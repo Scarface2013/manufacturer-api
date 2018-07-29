@@ -1,0 +1,19 @@
+{
+  "name": "manufacturer-api",
+  "version": "0.0.0",
+  "description": "Emulates a RESTful Manufacturer API for use by a Security Hub to receive updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarface2013/manufacturer-api.git"
+  },
+  "author": "Travis Fletcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scarface2013/manufacturer-api/issues"
+  },
+  "homepage": "https://github.com/scarface2013/manufacturer-api#readme"
+}
