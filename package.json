@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/scarface2013/manufacturer-api/issues"
   },
-  "homepage": "https://github.com/scarface2013/manufacturer-api#readme"
+  "homepage": "https://github.com/scarface2013/manufacturer-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "randombytes": "^2.0.6"
+  }
 }
